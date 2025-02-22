@@ -16,7 +16,6 @@ export default function Home() {
 					name="description"
 					content="I’m a full-stack web developer specialized in usinf react, nextjs and typescript to build exceptional user interface."
 				/>
-				<link rel="icon" href="/fav.ico" />
 			</Head>
 			<div className="overflow-x-clip">
 				<Main />

@@ -70,9 +70,9 @@ const certifications = [
 ]
 export default function Certifications() {
   return (
-    <div id="skills" className="w-full lg:h-screen p-2">
+    <div id="certifications" className="w-full lg:h-screen p-2">
       <div className="max-w-[1240px] mx-auto flex flex-col justify-center h-full">
-        <p className="text-xl tracking-widest uppercase text-primary">Certification</p>
+        <p className="text-xl tracking-widest uppercase text-primary">Certifications</p>
         <h2 className="py-4">The certificates that I have</h2>
         <Timeline
           sx={{

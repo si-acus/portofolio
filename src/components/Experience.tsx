@@ -52,7 +52,7 @@ const Experience = () => {
         link: ""
       },
     ],
-		technologies: ["Java", "Kotlin", "Dropwizard","PHP", "OracleDB", "MySQL", "Git", "Spring", "Hibernate", "Luciad Lightning", "JPA"],
+		technologies: ["Java", "Kotlin", "Dropwizard","PHP", "PostgreSQL", "MySQL", "Git", "Spring", "Hibernate", "Luciad Lightning", "JPA"],
 	};
 	const EverlessExperience = {
 		companyName: "Everless/ NoBackend",
@@ -155,15 +155,23 @@ const Experience = () => {
 		],
     projects: [
       {
-        name: "Sistem Otomatisasi Kliring Interkoneksi (SOKI) — Associations of Telecommunications Indonesia (ASKITEL)",
+        name: "eFarm",
         link: ""
       },
       {
-        name: "ICACB — Telkomsel",
+        name: "Dibalik Udang",
+        link: ""
+      },
+      {
+        name: "Kolam-ku",
+        link: ""
+      },
+      {
+        name: "Tools Budidaya",
         link: ""
       },
     ],
-		technologies: ["HTML", "CSS", "Javascript", "Typescript", "Git", "React", "Sass", "Less", "JSS", "Bootstrap", "ANTD", "Tailwind", "Next JS", "Node JS", "Vite", ],
+		technologies: ["HTML", "CSS", "Javascript", "Typescript", "Git", "React", "Sass", "Less", "JSS", "Bootstrap", "ANTD", "Next JS", "Node JS", "Vite", ],
 
 	};
 
