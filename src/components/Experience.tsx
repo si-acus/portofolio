@@ -8,10 +8,21 @@ const Experience = () => {
 		role: "Backend Developer",
 		duration: "July 2014 - August 2015",
 		activities: [
-			"Collaborated with a team of professional engineers to plan, design, build, and implement the user interface systems of web-based and desktop applications",
-			"Contributed to the development and optimization of several internal applications to enhance productivity, as well as a customer-facing account management application that improved customer inflow by automating the settlement calculation process between mobile operators.",			"Played an active role in testing, troubleshooting, and resolving issues such as those related to performance, accessibility,  browser compatibility, and security.",
-			"Reviewing and approving pull requests from other team members.",
+			"Develop, optimize, and maintain backend services and APIs using Java and ZK",
+			"Integrate and manage Oracle DBMS, ensuring efficient data storage, retrieval, and optimization.",
+			"Write efficient SQL queries, stored procedures, and optimize database performance.",
+			"Implement security best practices, including authentication, authorization, and data protection.",
 		],
+    projects: [
+      {
+        name: "Sistem Otomatisasi Kliring Interkoneksi (SOKI) — Associations of Telecommunications Indonesia (ASKITEL)",
+        link: ""
+      },
+      {
+        name: "ICACB — Telkomsel",
+        link: ""
+      },
+    ],
 		technologies: ["Java","ZKoss", "Oracle DBMS","PHP", "MySQL", "Git", "Spring", "Hibernate", "JPA"],
 	};
 
@@ -20,11 +31,27 @@ const Experience = () => {
 		role: "Full-Stack Developer",
 		duration: "August 2015 - August 2017",
 		activities: [
-			"Collaborated with a team of professional engineers to plan, design, build, and implement the user interface systems of web-based applications and provide a satisfactory user experience with no issues, errors, or downtime.",
-			"Collaborated with the project manager and another engineer.",
-						"Reviewing and approving pull requests from other team members.",
-
+			"Develop, optimize, and maintain backend services and APIs using Java and Spring Boot.",
+			"Develop, optimize, and maintain Operator Area of Air Defense Net-Centric Tactical System (AIRNETS) — Indonesian National Air Defense Forces Command (Komando Pertahanan Udara Nasional Indonesia / KOHANUDNAS)",
 		],
+    projects: [
+      {
+        name: "Operator Area of Air Defense Net-Centric Tactical System (AIRNETS) — Indonesian National Air Defense Forces Command (Komando Pertahanan Udara Nasional Indonesia / KOHANUDNAS)",
+        link: ""
+      },
+      {
+        name: "Logistik Support Information System (LSIS) — Indonesian National Air Defense Forces Command (Komando Pertahanan Udara Nasional Indonesia / KOHANUDNAS)",
+        link: ""
+      },
+      {
+        name: "Simple Assets Management System (SAMS) — Indonesian National Air Defense Forces Command (Komando Pertahanan Udara Nasional Indonesia / KOHANUDNAS)",
+        link: ""
+      },
+      {
+        name: "Dietplus SIM and Website — DietPlus",
+        link: ""
+      },
+    ],
 		technologies: ["Java", "Kotlin", "Dropwizard","PHP", "OracleDB", "MySQL", "Git", "Spring", "Hibernate", "Luciad Lightning", "JPA"],
 	};
 	const EverlessExperience = {
@@ -34,7 +61,15 @@ const Experience = () => {
 		activities: [
 			"Collaborated with the product owner, designeer and backend engineer.",
 			"Ensured cross-platform development and optimization for mobile responsiveness.",
+      "Collaborate with designers and backend engineers to integrate APIs and create a seamless UI/UX experience.",
+      "Worked with React, Redux, and other modern technologies.",
 		],
+    projects: [
+      {
+        name: "eVerless —  eVerless (noBackend), Pometera",
+        link: ""
+      },
+    ],
 		technologies: ["HTML", "CSS", "Javascript", "Git", "React", "Redux", "Bootstrap", "Gulp", "Sass"],
 	};
 	const TelkomExperience = {
@@ -46,8 +81,62 @@ const Experience = () => {
 			"Designed and developed the client side of aplication website while writing re-usable and easy to maintain codes.",
 			"Ensured cross-platform development and optimization for mobile responsiveness.",
 			"Reviewing and approving pull requests from other team members.",
+      "Developed and optimized the UI for 10+ projects, including e-commerce applications and internal dashboards.",
+      "Led the frontend development for UMeetMe, improving page performance by 40%.",
+      "Worked with React, Redux, and other modern technologies.",
+      "Collaborate with designers and backend engineers to integrate APIs and create a seamless UI/UX experience."
 
 		],
+    projects: [
+      {
+        name: "Teman Berbagi — Teman Berbagi",
+        link: ""
+      },
+      {
+        name: "Dashboard Beras Kita — Bulir",
+        link: ""
+      },
+      {
+        name: "Baleku — ITX",
+        link: ""
+      },
+      {
+        name: "Nusaku — ITX",
+        link: ""
+      },
+      {
+        name: "Telkom Design System (TEDIS) — Telkom DEX",
+        link: ""
+      },
+      {
+        name: "DTP DSA — DTP DSA",
+        link: ""
+      },
+      {
+        name: "Dashboard Smart City Nusantara—  SCN",
+        link: ""
+      },
+      {
+        name: "Dashboard Performance Mgm—  Telkom dev",
+        link: ""
+      },
+      {
+        name: "InPoint (PointsWallet & Exchange)",
+        link: ""
+      },
+      {
+        name: "Inpoin Poin Reward Gamification Platform",
+        link: ""
+      },
+      {
+        name: "Kerja Indonesia / Pijar Mahir - Tribe Edu (Telkom)",
+        link: ""
+      },
+      {
+        name: "UMeetMe - Tribe Com (Telkom)",
+        link: ""
+      },
+    ],
 		technologies: ["HTML", "CSS", "Javascript", "Typescript", "Git", "React", "Redux", "Sass", "Less","JSS", "Bootstrap", "ANTD", "Material UI", "Tailwind", "Next JS", "Node JS"],
 
 	};
@@ -57,17 +146,29 @@ const Experience = () => {
 		duration: "December 2021 - February 2025",
 		activities: [
 			"Collaborated with the project manager and Head of Engineering.",
-			"Designed and developed the client side of the sub-company’s ( Illusion Decals ) website while writing re-usable and easy to maintain codes.",
-			"Ensured cross-platform development and optimization for mobile responsiveness.",
+      "Managed and mentored a diverse team of 4 Backend Engineers and 3 Frontend Engineers, fostering a collaborative and high-performance environment.",
+      "Orchestrated efforts across multiple projects by managing dependencies and fostering collaboration between engineering, product, design, and business at the squad or tribe levels.",
+      "Build and maintain an application using React for the frontend, Ant Design for UI components",
+      "Collaborate with designers and backend engineers to integrate APIs and create a seamless UI/UX experience.",
 			"Reviewing and approving pull requests from other team members.",
 
 		],
+    projects: [
+      {
+        name: "Sistem Otomatisasi Kliring Interkoneksi (SOKI) — Associations of Telecommunications Indonesia (ASKITEL)",
+        link: ""
+      },
+      {
+        name: "ICACB — Telkomsel",
+        link: ""
+      },
+    ],
 		technologies: ["HTML", "CSS", "Javascript", "Typescript", "Git", "React", "Sass", "Less", "JSS", "Bootstrap", "ANTD", "Tailwind", "Next JS", "Node JS", "Vite", ],
 
 	};
 
 	return (
-		<div id="experience" className="w-full lg:h-screen p-2 ">
+		<div id="experience" className="w-full p-2 ">
 			<div
 				className="max-w-[1240px] mx-auto flex flex-col justify-center h-full"
 				data-aos="fade-right"

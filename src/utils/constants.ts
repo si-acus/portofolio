@@ -28,6 +28,10 @@ import Typescript from "public/assets/skills/typescript.png";
 import Vite from "public/assets/skills/vite.js.png";
 
 import ReactDashboard from "public/assets/projects/react-dashboard/dashboard.png";
+import Tedis from "public/assets/projects/tedis/tedis.jpg";
+import SmartCity from "public/assets/projects/smartcity/SmartCity.jpg";
+import UMeetMe from "public/assets/projects/umeetme/UMeetMe.jpg";
+import Pijar from "public/assets/projects/pijar-mahir/PijarMahir.jpg";
 
 export const skills = [
 	{
@@ -146,27 +150,28 @@ export const skills = [
 
 export const projects = [
 	{
-		name: "Whatsapp Web Clone",
-		image: ReactDashboard,
-		projectUrl: "/projects/whatsapp-clone",
+		name: "Telkom Design System (TEDIS) — Telkom DEX",
+		image: Tedis,
+		projectUrl: "/projects/tedis",
 		tech: "Next JS",
 	},
 	{
-		name: "Easymunch",
-		image: ReactDashboard,
-		projectUrl: "/projects/easy-munch",
-		tech: "React JS",
-	},
-	{
-		name: "React Dashboard",
-		image: ReactDashboard,
+		name: "Dashboard Smart City Nusantara — SCN",
+		image: SmartCity,
 		projectUrl: "/projects/react-dashboard",
 		tech: "React JS",
 	},
 	{
-		name: "React Movie App",
-		image: ReactDashboard,
-		projectUrl: "/projects/movie-app",
+		name: "Dashboard Smart City Nusantara — SCN",
+		image: UMeetMe,
+		projectUrl: "/projects/react-dashboard",
 		tech: "React JS",
 	},
+	{
+		name: "Dashboard Smart City Nusantara — SCN",
+		image: Pijar,
+		projectUrl: "/projects/react-dashboard",
+		tech: "React JS",
+	},
+	
 ];
